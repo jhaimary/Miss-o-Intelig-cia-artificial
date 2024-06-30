@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Em 2049, O mundo testemunha os frutos de décadas de dedicação à preservação ambiental. O planeta, agora é mais saudável e equilibrado, um reflexo das escolhas sustentáveis feitas por você qué entendeu a importância de viver em harmonia com a natureza";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }

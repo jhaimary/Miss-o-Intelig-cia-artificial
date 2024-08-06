@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Promovendo a redução do uso de plásticos descartáveis e incentivando a reutilização e reciclagem de produtos plásticos.",
-                afirmacao: "afirmação"
+                afirmacao: "Incentivar menos plástico descartável e mais reutilização e reciclagem de plásticos"
             },
             {
                 texto: "Desenvolvendo tecnologias avançadas para a limpeza de resíduos plásticos nos oceanos e conscientizando sobre os efeitos devastadores que o plástico tem na vida marinha.",
-                afirmacao: "afirmação"
+                afirmacao: "Desenvolver tecnologias avançadas para limpar resíduos plásticos nos oceanos e conscientizar sobre os danos que o plástico causa à vida marinha."
             }
         ]
     },

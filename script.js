@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Promovendo a redução do uso de plásticos descartáveis e incentivando a reutilização e reciclagem de produtos plásticos.",
-                afirmacao: "Incentivar menos plástico descartável e mais reutilização e reciclagem de plásticos"
+                afirmacao: "Incentivar menos plástico descartável e mais reutilização e reciclagem de plásticos",
             },
             {
                 texto: "Desenvolvendo tecnologias avançadas para a limpeza de resíduos plásticos nos oceanos e conscientizando sobre os efeitos devastadores que o plástico tem na vida marinha.",
-                afirmacao: "Desenvolver tecnologias avançadas para limpar resíduos plásticos nos oceanos e conscientizar sobre os danos que o plástico causa à vida marinha."
+                afirmacao: "Desenvolver tecnologias avançadas para limpar resíduos plásticos nos oceanos e conscientizar sobre os danos que o plástico causa à vida marinha.",
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Adotando fontes de energia renovável, como solar e eólica, e reduzindo nossa pegada de carbono ao diminuir o consumo de combustíveis fósseis.",
-                afirmacao: "afirmação"
+                afirmacao: ""
             },
             {
                 texto: "Implementando políticas internacionais para reduzir as emissões de gases de efeito estufa e promovendo práticas agrícolas sustentáveis que capturem carbono no solo.",
-                afirmacao: "afirmação"
+                afirmacao: ""
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Estabelecendo áreas protegidas e reservas naturais para preservar habitats críticos e espécies ameaçadas de extinção.",
-                afirmacao: "afirmação"
+                afirmacao: ""
             },
             {
                 texto: "Incentivando práticas de consumo sustentável e apoiando pesquisas científicas para entender melhor os ecossistemas e como podemos conservá-los de forma eficaz.",
-                afirmacao: "afirmação"
+                afirmacao: ""
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Promovendo o transporte público e o uso de veículos elétricos para reduzir as emissões de gases poluentes em áreas urbanas.",
-                afirmacao: "afirmação"
+                afirmacao: ""
             },
             {
                 texto: "Plantando árvores e criando espaços verdes nas cidades para filtrar poluentes atmosféricos e fornecer oxigênio limpo.",
-                afirmacao: "afirmação"
+                afirmacao: ""
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Implementando práticas de conservação da água, como consertar vazamentos e usar sistemas de irrigação mais eficientes.",
-                afirmacao: "afirmação"
+                afirmacao: ""
             },
             {
                 texto: " Investindo em tecnologias avançadas de dessalinização e tratamento de água para tornar fontes alternativas de água potável disponíveis e acessíveis.",
-                afirmacao: "afirmação"
+                afirmacao: ""
             }
         ]
     },

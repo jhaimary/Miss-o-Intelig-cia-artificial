@@ -62,11 +62,12 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Implementando práticas de conservação da água, como consertar vazamentos e usar sistemas de irrigação mais eficientes.",
-                afirmacao: ""
+                afirmacao: "Implementando práticas de conservação da água, como consertar vazamentos e usar sistemas de irrigação mais eficientes"
             },
             {
-                texto: " Investindo em tecnologias avançadas de dessalinização e tratamento de água para tornar fontes alternativas de água potável disponíveis e acessíveis.",
-                afirmacao: ""
+                texto: "Investindo em tecnologias avançadas de dessalinização e tratamento de água para tornar fontes alternativas de água potável disponíveis e acessíveis.",
+                afirmacao: "
+                texto: "Investindo em tecnologias avançadas de dessalinização e tratamento de água para tornar fontes alternativas de água potável disponíveis e acessíveis."
             }
         ]
     },

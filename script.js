@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Adotando fontes de energia renovável, como solar e eólica, e reduzindo nossa pegada de carbono ao diminuir o consumo de combustíveis fósseis.",
-                afirmacao: ""
+                afirmacao: "Adotando fontes de energia renovável, como solar e eólica, e reduzindo nossa pegada de carbono ao diminuir o consumo de combustíveis fósseis."
             },
             {
                 texto: "Implementando políticas internacionais para reduzir as emissões de gases de efeito estufa e promovendo práticas agrícolas sustentáveis que capturem carbono no solo.",
-                afirmacao: ""
+                afirmacao: "Implementando políticas internacionais para reduzir as emissões de gases de efeito estufa e promovendo práticas agrícolas sustentáveis que capturem carbono no solo."
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "Como você poderia proteger a biodiversidade e os ecossistemas frágeis?",
         alternativas: [
             {
-                texto: " Estabelecendo áreas protegidas e reservas naturais para preservar habitats críticos e espécies ameaçadas de extinção.",
-                afirmacao: ""
+                texto: "Estabelecendo áreas protegidas e reservas naturais para preservar habitats críticos e espécies ameaçadas de extinção.",
+                afirmacao: "Estabelecendo áreas protegidas e reservas naturais para preservar habitats críticos e espécies ameaçadas de extinção."
             },
             {
                 texto: "Incentivando práticas de consumo sustentável e apoiando pesquisas científicas para entender melhor os ecossistemas e como podemos conservá-los de forma eficaz.",
-                afirmacao: ""
+                afirmacao: "Incentivando práticas de consumo sustentável e apoiando pesquisas científicas para entender melhor os ecossistemas e como podemos conservá-los de forma eficaz."
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Promovendo o transporte público e o uso de veículos elétricos para reduzir as emissões de gases poluentes em áreas urbanas.",
-                afirmacao: ""
+                afirmacao: "Promovendo o transporte público e o uso de veículos elétricos para reduzir as emissões de gases poluentes em áreas urbanas."
             },
             {
                 texto: "Plantando árvores e criando espaços verdes nas cidades para filtrar poluentes atmosféricos e fornecer oxigênio limpo.",
-                afirmacao: ""
+                afirmacao: "Plantando árvores e criando espaços verdes nas cidades para filtrar poluentes atmosféricos e fornecer oxigênio limpo."
             }
         ]
     },

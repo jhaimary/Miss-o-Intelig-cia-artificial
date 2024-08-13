@@ -66,8 +66,7 @@ const perguntas = [
             },
             {
                 texto: "Investindo em tecnologias avançadas de dessalinização e tratamento de água para tornar fontes alternativas de água potável disponíveis e acessíveis.",
-                afirmacao: "
-                texto: "Investindo em tecnologias avançadas de dessalinização e tratamento de água para tornar fontes alternativas de água potável disponíveis e acessíveis."
+                afirmacao: "Investindo em tecnologias avançadas de dessalinização e tratamento de água para tornar fontes alternativas de água potável disponíveis e acessíveis."
             }
         ]
     },
